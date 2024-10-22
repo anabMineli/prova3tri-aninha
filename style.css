@@ -1,0 +1,16 @@
+corpo{
+background-color: rgb(7, 7, 124);
+}
+p{
+    color: rgb(155, 236, 236);
+}
+h1{
+    font-style: inherit;
+}
+.ig{
+    font-style: oblique;
+    color: rgb(7, 7, 214);
+}
+.mor{
+    width: 60%;
+}
